@@ -1,0 +1,12 @@
+body {
+    background-color: #1E2026;
+    font-family: 'Comfortaa', sans-serif;
+    color: #eee;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+    width: 100%;
+}
